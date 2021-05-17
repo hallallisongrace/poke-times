@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.8ff40d02.chunk.css",
+    "main.js": "/my-app/static/js/main.e5c4f54d.chunk.js",
+    "main.js.map": "/my-app/static/js/main.e5c4f54d.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.0fa0a0bf.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.0fa0a0bf.js.map",
+    "static/js/2.a6509608.chunk.js": "/my-app/static/js/2.a6509608.chunk.js",
+    "static/js/2.a6509608.chunk.js.map": "/my-app/static/js/2.a6509608.chunk.js.map",
+    "static/js/3.e2fc6544.chunk.js": "/my-app/static/js/3.e2fc6544.chunk.js",
+    "static/js/3.e2fc6544.chunk.js.map": "/my-app/static/js/3.e2fc6544.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/main.8ff40d02.chunk.css.map": "/my-app/static/css/main.8ff40d02.chunk.css.map",
+    "static/js/2.a6509608.chunk.js.LICENSE.txt": "/my-app/static/js/2.a6509608.chunk.js.LICENSE.txt",
+    "static/media/pokeball.05e5662d.png": "/my-app/static/media/pokeball.05e5662d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fa0a0bf.js",
+    "static/js/2.a6509608.chunk.js",
+    "static/css/main.8ff40d02.chunk.css",
+    "static/js/main.e5c4f54d.chunk.js"
+  ]
+}
